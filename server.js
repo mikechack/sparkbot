@@ -11,7 +11,7 @@ var config = {
   clientID : 'C92d6666138445300a8b0c62f71fd99c4fba0f02b22ef7f6df46f250c5cceedab',
   clientSecret: 'e4974399f40138c1b5c7325eb6c384cd2e5d014ac6f19af58f95aae2b803d3dc',
   username: 'chack@sbcglobal.net',
-  password: 'Mc23267!',
+  password: '',
   redirectURL: 'https://example.com'
   // spark api token
   //sparkToken: 'YjJkNWQzMWQtMjdmZC00OTNmLWJiNzEtN2FiMGE0MGM3MTVkNTU3NzVmODktMjNl'
