@@ -1,0 +1,11 @@
+{
+  "name": "linkbot",
+  "version": "0.0.0",
+  "description": "A Cisco Spark bot using Flint",
+  "main": "server.js",
+  "repository": "",
+  "author": "mchack@cisco.com",
+  "dependencies": {
+    "node-flint": "^3.0.6"
+  }
+}
